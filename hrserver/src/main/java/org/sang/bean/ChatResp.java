@@ -10,6 +10,7 @@ public class ChatResp {
     public ChatResp() {
     }
 
+    // 提交测试
     public ChatResp(String msg, String from) {
         this.msg = msg;
         this.from = from;
